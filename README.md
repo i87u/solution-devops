@@ -34,7 +34,7 @@
 - For authentication and authorization, use tools like HashiCorp Vault for secrets management and configure RBAC for Kubernetes and CI/CD tools
 - Deploy immutable infrastructure via Terraform or Helm charts
 - For observability, integrate logging and monitoring tools such as Prometheus and Grafana
-← Diagram →
+![ci/cd diagram](https://github.com/i87u/solution-devops/blob/main/cicd.png?raw=true
 
 ## 6. Debugging React Native Build Failures
 - Inspect the CI/CD pipeline logs for error messages or patterns
